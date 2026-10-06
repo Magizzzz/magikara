@@ -1,0 +1,791 @@
+{
+  "dictionary" : {
+
+  },
+  "displayPolicy" : {
+    "adaptToGap" : true,
+    "lastHoldOut" : 1.2,
+    "leadIn" : 1.2
+  },
+  "duration" : 174.02633333333333,
+  "lyricLines" : [
+    {
+      "confidence" : 1,
+      "displayEnd" : 34,
+      "displayStart" : 27,
+      "displayText" : "字幕位置の確認用です",
+      "id" : "BF7C06B5-EF53-4C9F-8397-2AD328E804E4",
+      "lane" : "upper",
+      "needsReview" : false,
+      "order" : 1,
+      "reviewReasons" : [
+        "渲染检查占位"
+      ],
+      "singEnd" : 31,
+      "singStart" : 28,
+      "tokens" : [
+        {
+          "id" : "D51D7DB2-D88C-4A3D-8400-88C4D566E9F6",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 28.214285714285715,
+              "id" : "E727932A-CD81-458D-8BE2-7CECB7A5A78A",
+              "mora" : "じ",
+              "start" : 28
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 28.428571428571427,
+              "id" : "4DA0FC65-EFE1-4FF5-868B-D6448E0BBFE9",
+              "mora" : "ま",
+              "start" : 28.214285714285715
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 28.642857142857142,
+              "id" : "95FDB217-9994-448A-B3FB-1012F96FDB15",
+              "mora" : "く",
+              "start" : 28.428571428571427
+            }
+          ],
+          "reading" : "じまく",
+          "sourceLength" : 2,
+          "sourceStart" : 0,
+          "surface" : "字幕"
+        },
+        {
+          "id" : "972C9C93-7463-4D34-BE3E-88C0F85CC004",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 28.857142857142858,
+              "id" : "9E753637-D433-48BE-AFCA-D6A25B093A22",
+              "mora" : "い",
+              "start" : 28.642857142857142
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 29.071428571428573,
+              "id" : "EFC8B3E9-13C0-48F8-BB28-93321A7F4535",
+              "mora" : "ち",
+              "start" : 28.857142857142858
+            }
+          ],
+          "reading" : "いち",
+          "sourceLength" : 2,
+          "sourceStart" : 2,
+          "surface" : "位置"
+        },
+        {
+          "id" : "14465D1C-C9A5-4C42-B258-DF083FBE8759",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 29.285714285714285,
+              "id" : "E436D11B-AD30-444A-97D0-2EE2BF26969C",
+              "mora" : "の",
+              "start" : 29.071428571428573
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 4,
+          "surface" : "の"
+        },
+        {
+          "id" : "3A9C7D31-8420-4BE6-A7B2-50EE3D0A7CC4",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 29.5,
+              "id" : "98EC5373-0687-42E7-A595-807DBA0258C9",
+              "mora" : "か",
+              "start" : 29.285714285714285
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 29.714285714285715,
+              "id" : "71008625-6FF2-40A8-BB66-701031B79657",
+              "mora" : "く",
+              "start" : 29.5
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 29.92857142857143,
+              "id" : "B7D1F18D-3394-49D9-A593-891C79FD09E9",
+              "mora" : "に",
+              "start" : 29.714285714285715
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 30.142857142857142,
+              "id" : "B3023898-F795-49F5-BF3A-6FF7EA9D0B2C",
+              "mora" : "ん",
+              "start" : 29.92857142857143
+            }
+          ],
+          "reading" : "かくにん",
+          "sourceLength" : 2,
+          "sourceStart" : 5,
+          "surface" : "確認"
+        },
+        {
+          "id" : "B9AE6BFB-99E6-437D-85CC-A83D184E4C27",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 30.357142857142858,
+              "id" : "6FE917DB-8283-4CF4-B344-D70C6867A941",
+              "mora" : "よ",
+              "start" : 30.142857142857142
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 30.57142857142857,
+              "id" : "8860D35A-97D6-42DF-B726-1D185CF0DD65",
+              "mora" : "う",
+              "start" : 30.357142857142858
+            }
+          ],
+          "reading" : "よう",
+          "sourceLength" : 1,
+          "sourceStart" : 7,
+          "surface" : "用"
+        },
+        {
+          "id" : "27BD368D-2620-490C-A3D6-322B0AF1ADEF",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 30.785714285714285,
+              "id" : "3B9439D3-8361-48A0-B28B-9B6A2C8D6309",
+              "mora" : "で",
+              "start" : 30.57142857142857
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 31,
+              "id" : "9476D861-3D73-438A-92F9-BEBA1DA4673B",
+              "mora" : "す",
+              "start" : 30.785714285714285
+            }
+          ],
+          "sourceLength" : 2,
+          "sourceStart" : 8,
+          "surface" : "です"
+        }
+      ]
+    },
+    {
+      "confidence" : 1,
+      "displayEnd" : 35,
+      "displayStart" : 28,
+      "displayText" : "下部安全域に固定表示",
+      "id" : "D66BB6E3-AEF0-4063-9E6F-5FD1007A343C",
+      "lane" : "lower",
+      "needsReview" : false,
+      "order" : 2,
+      "reviewReasons" : [
+        "渲染检查占位"
+      ],
+      "singEnd" : 32,
+      "singStart" : 29,
+      "tokens" : [
+        {
+          "id" : "24D346A7-8F9A-4552-A050-B262F2F2E506",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 29.2,
+              "id" : "31D0E1E4-4CAE-4B55-955D-BEA2BF3EF5BE",
+              "mora" : "か",
+              "start" : 29
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 29.4,
+              "id" : "E8CF3B61-24A0-48E4-A94E-4B46EBF8907B",
+              "mora" : "ぶ",
+              "start" : 29.2
+            }
+          ],
+          "reading" : "かぶ",
+          "sourceLength" : 2,
+          "sourceStart" : 0,
+          "surface" : "下部"
+        },
+        {
+          "id" : "8C7780DA-87C1-46ED-9215-0457F56C88B5",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 29.6,
+              "id" : "EB8189E7-21CD-491F-A87F-479B2CE90EC0",
+              "mora" : "あ",
+              "start" : 29.4
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 29.8,
+              "id" : "E914F9EB-2116-4CBB-BC78-AC96D9CA7D1A",
+              "mora" : "ん",
+              "start" : 29.6
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 30,
+              "id" : "46058F5B-F94E-41B8-B5DA-8067F3411A6C",
+              "mora" : "ぜ",
+              "start" : 29.8
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 30.2,
+              "id" : "300DA4B0-F756-4125-870C-F98F698F8261",
+              "mora" : "ん",
+              "start" : 30
+            }
+          ],
+          "reading" : "あんぜん",
+          "sourceLength" : 2,
+          "sourceStart" : 2,
+          "surface" : "安全"
+        },
+        {
+          "id" : "51520254-2EEB-4DE5-BB76-9B95D8934AD5",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 30.4,
+              "id" : "1B4C8377-223B-4BDE-BECB-9945FA04D6F4",
+              "mora" : "い",
+              "start" : 30.2
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 30.6,
+              "id" : "C1EA03B9-552F-4B04-940A-5BBE576B94F0",
+              "mora" : "き",
+              "start" : 30.4
+            }
+          ],
+          "reading" : "いき",
+          "sourceLength" : 1,
+          "sourceStart" : 4,
+          "surface" : "域"
+        },
+        {
+          "id" : "886DBD6C-2E0D-4D09-97AA-E0A0A9C99519",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 30.8,
+              "id" : "CB067E72-2134-4E67-8AE7-2ED10F31A3BC",
+              "mora" : "に",
+              "start" : 30.6
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 5,
+          "surface" : "に"
+        },
+        {
+          "id" : "E2EC301E-1878-4A24-9072-76686A1DDDB0",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 31,
+              "id" : "9A7C3216-1A06-4F1E-8895-6B990F5AF859",
+              "mora" : "こ",
+              "start" : 30.8
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 31.2,
+              "id" : "316CA88E-8B23-41CC-9DBC-C77136E7945F",
+              "mora" : "て",
+              "start" : 31
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 31.4,
+              "id" : "34D26C2B-6F52-4ADD-B274-02E76E33C415",
+              "mora" : "い",
+              "start" : 31.2
+            }
+          ],
+          "reading" : "こてい",
+          "sourceLength" : 2,
+          "sourceStart" : 6,
+          "surface" : "固定"
+        },
+        {
+          "id" : "3DECE8BF-192A-4582-AE7A-F9905560850C",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 31.6,
+              "id" : "4284EE78-91BB-4EC0-A6FE-1222E44A2374",
+              "mora" : "ひょ",
+              "start" : 31.4
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 31.8,
+              "id" : "F68898D9-1E62-4DD7-8F39-FCE91A788F3D",
+              "mora" : "う",
+              "start" : 31.6
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 32,
+              "id" : "50FEA3E8-18C3-4A55-BD4E-4EE439324C65",
+              "mora" : "じ",
+              "start" : 31.8
+            }
+          ],
+          "reading" : "ひょうじ",
+          "sourceLength" : 2,
+          "sourceStart" : 8,
+          "surface" : "表示"
+        }
+      ]
+    },
+    {
+      "confidence" : 1,
+      "displayEnd" : 41,
+      "displayStart" : 34,
+      "displayText" : "未唱は白、既唱は藍紫",
+      "id" : "BB9C1A70-AACD-401C-8B9E-2E7787A5C960",
+      "lane" : "upper",
+      "needsReview" : false,
+      "order" : 3,
+      "reviewReasons" : [
+        "渲染检查占位"
+      ],
+      "singEnd" : 38,
+      "singStart" : 35,
+      "tokens" : [
+        {
+          "id" : "75ECE888-3409-4075-B141-A74255E3CD62",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 35.1875,
+              "id" : "D7C7800A-8A0E-42F9-83A8-E159F4E0F6C9",
+              "mora" : "み",
+              "start" : 35
+            }
+          ],
+          "reading" : "み",
+          "sourceLength" : 1,
+          "sourceStart" : 0,
+          "surface" : "未"
+        },
+        {
+          "id" : "FEF31026-8941-4E0C-B170-58A71E72152F",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 35.375,
+              "id" : "70E99363-D197-4FC9-B121-A9FC4F9B36A4",
+              "mora" : "しょ",
+              "start" : 35.1875
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 35.5625,
+              "id" : "AFCBF0B9-235D-4596-8C80-C8088215B615",
+              "mora" : "う",
+              "start" : 35.375
+            }
+          ],
+          "reading" : "しょう",
+          "sourceLength" : 1,
+          "sourceStart" : 1,
+          "surface" : "唱"
+        },
+        {
+          "id" : "AD9AF580-CC10-4C14-A1CF-F4DB42B17C3F",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 35.75,
+              "id" : "5149449A-9DBA-4CF8-923E-A1DAE9931B77",
+              "mora" : "は",
+              "start" : 35.5625
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 2,
+          "surface" : "は"
+        },
+        {
+          "id" : "62BBF113-8542-4E88-BA51-59AC80812879",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 35.9375,
+              "id" : "238720F5-61B6-4A9B-BA7C-4E8B35E94F04",
+              "mora" : "し",
+              "start" : 35.75
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 36.125,
+              "id" : "D50B4565-3BC0-44C0-9B40-352A98294178",
+              "mora" : "ろ",
+              "start" : 35.9375
+            }
+          ],
+          "reading" : "しろ",
+          "sourceLength" : 1,
+          "sourceStart" : 3,
+          "surface" : "白"
+        },
+        {
+          "id" : "6AF48353-A72D-4AE3-A732-F0A156764D80",
+          "morae" : [
+
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 4,
+          "surface" : "、"
+        },
+        {
+          "id" : "623BB9B1-966D-4465-96E3-520D981C0055",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 36.3125,
+              "id" : "229F1B94-6DBE-4FCA-92EF-A00A69B4CF25",
+              "mora" : "き",
+              "start" : 36.125
+            }
+          ],
+          "reading" : "き",
+          "sourceLength" : 1,
+          "sourceStart" : 5,
+          "surface" : "既"
+        },
+        {
+          "id" : "4BDB9519-AC09-4E91-ADC2-7E42CBC33B14",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 36.5,
+              "id" : "C2D21F5C-2644-42C0-8185-BD6BA6AB95F7",
+              "mora" : "しょ",
+              "start" : 36.3125
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 36.6875,
+              "id" : "05ABF503-77F0-4461-B7B5-807564D59E74",
+              "mora" : "う",
+              "start" : 36.5
+            }
+          ],
+          "reading" : "しょう",
+          "sourceLength" : 1,
+          "sourceStart" : 6,
+          "surface" : "唱"
+        },
+        {
+          "id" : "FA860CF6-1617-4342-8E0E-817D250E2BB9",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 36.875,
+              "id" : "83ED9940-E67A-4C22-A0D1-95A1B769F34C",
+              "mora" : "は",
+              "start" : 36.6875
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 7,
+          "surface" : "は"
+        },
+        {
+          "id" : "D612F351-5187-4377-A552-542060C9C5B9",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 37.0625,
+              "id" : "74390D2C-7452-409D-A22B-8272379624C5",
+              "mora" : "ら",
+              "start" : 36.875
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 37.25,
+              "id" : "13AB7B17-3897-4438-9A4C-39537464F3DD",
+              "mora" : "ん",
+              "start" : 37.0625
+            }
+          ],
+          "reading" : "らん",
+          "sourceLength" : 1,
+          "sourceStart" : 8,
+          "surface" : "藍"
+        },
+        {
+          "id" : "A3881FE8-D322-474C-9AA4-B4872D431DBF",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 37.4375,
+              "id" : "0C27D60F-30F2-4286-A5A9-8D00BEE15E84",
+              "mora" : "む",
+              "start" : 37.25
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 37.625,
+              "id" : "D8BEC64A-FDDE-42EF-80B9-53C3349E1B58",
+              "mora" : "ら",
+              "start" : 37.4375
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 37.8125,
+              "id" : "DBD572CD-D144-4E85-91E9-7245C30317AB",
+              "mora" : "さ",
+              "start" : 37.625
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 38,
+              "id" : "5E143F4D-7F8A-4A3A-814C-705FC0097867",
+              "mora" : "き",
+              "start" : 37.8125
+            }
+          ],
+          "reading" : "むらさき",
+          "sourceLength" : 1,
+          "sourceStart" : 9,
+          "surface" : "紫"
+        }
+      ]
+    },
+    {
+      "confidence" : 1,
+      "displayEnd" : 42,
+      "displayStart" : 35,
+      "displayText" : "仮名は漢字の上に表示",
+      "id" : "83CF72C7-0E97-430F-BFA4-E03F317F9AA3",
+      "lane" : "lower",
+      "needsReview" : false,
+      "order" : 4,
+      "reviewReasons" : [
+        "渲染检查占位"
+      ],
+      "singEnd" : 39,
+      "singStart" : 36,
+      "tokens" : [
+        {
+          "id" : "94DD2491-7186-4E6A-B740-B56B7D16BFCC",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 36.23076923076923,
+              "id" : "315034E6-8F3E-4FC1-BE86-657F48B93AB4",
+              "mora" : "か",
+              "start" : 36
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 36.46153846153846,
+              "id" : "B0E185E0-B155-4C61-AFA2-86662964C211",
+              "mora" : "な",
+              "start" : 36.23076923076923
+            }
+          ],
+          "reading" : "かな",
+          "sourceLength" : 2,
+          "sourceStart" : 0,
+          "surface" : "仮名"
+        },
+        {
+          "id" : "E115F45A-768C-467B-B83A-8C4F2D1933BE",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 36.69230769230769,
+              "id" : "B267D7E9-D9BF-4383-B772-D56CADF8C073",
+              "mora" : "は",
+              "start" : 36.46153846153846
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 2,
+          "surface" : "は"
+        },
+        {
+          "id" : "17EB15B2-83C3-40C8-B8E0-9B972AFEF53E",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 36.92307692307692,
+              "id" : "89DED27E-519F-482B-AFC8-38F2377B7505",
+              "mora" : "か",
+              "start" : 36.69230769230769
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 37.15384615384615,
+              "id" : "FB4EAFD3-4BD9-4380-B1E1-D77EC9E7359F",
+              "mora" : "ん",
+              "start" : 36.92307692307692
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 37.38461538461539,
+              "id" : "79BFAB18-B0B9-4189-BF09-D67FB907698D",
+              "mora" : "じ",
+              "start" : 37.15384615384615
+            }
+          ],
+          "reading" : "かんじ",
+          "sourceLength" : 2,
+          "sourceStart" : 3,
+          "surface" : "漢字"
+        },
+        {
+          "id" : "D0814D27-9523-48FB-BD6A-AFFF12645A4D",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 37.61538461538461,
+              "id" : "8E4BB5CB-DCD3-4DAA-8C0A-8F3E97E517EF",
+              "mora" : "の",
+              "start" : 37.38461538461539
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 5,
+          "surface" : "の"
+        },
+        {
+          "id" : "7DE6FB1A-E099-4D72-91A4-B6A9347591FD",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 37.84615384615385,
+              "id" : "6B4825D3-3F5C-4259-B7EE-D1C8E2F9E5B5",
+              "mora" : "う",
+              "start" : 37.61538461538461
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 38.07692307692308,
+              "id" : "4B371251-3345-4B57-BB16-BECD874178F3",
+              "mora" : "え",
+              "start" : 37.84615384615385
+            }
+          ],
+          "reading" : "うえ",
+          "sourceLength" : 1,
+          "sourceStart" : 6,
+          "surface" : "上"
+        },
+        {
+          "id" : "43B88BA0-D2B6-439B-9105-128E4807E3F5",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 38.30769230769231,
+              "id" : "CCD66291-B425-490A-B115-4DE41F1972DC",
+              "mora" : "に",
+              "start" : 38.07692307692308
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 7,
+          "surface" : "に"
+        },
+        {
+          "id" : "AA71534C-308A-46C6-8D6D-0B800D552EC3",
+          "morae" : [
+            {
+              "confidence" : 0.5,
+              "end" : 38.53846153846154,
+              "id" : "67D40C3B-3F34-4F4E-93B0-96D625DDB4CF",
+              "mora" : "ひょ",
+              "start" : 38.30769230769231
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 38.76923076923077,
+              "id" : "19BCD93F-BC60-4B71-80F6-A419176EC80C",
+              "mora" : "う",
+              "start" : 38.53846153846154
+            },
+            {
+              "confidence" : 0.5,
+              "end" : 39,
+              "id" : "426FC4E2-B799-4D06-B1D9-70C1B018E461",
+              "mora" : "じ",
+              "start" : 38.76923076923077
+            }
+          ],
+          "reading" : "ひょうじ",
+          "sourceLength" : 2,
+          "sourceStart" : 8,
+          "surface" : "表示"
+        }
+      ]
+    }
+  ],
+  "mediaURL" : "file:\/\/\/Users\/magi\/Movies\/Wondershare%20UniConverter15\/Compressed\/%E3%80%90%E3%83%8B%E3%82%B3%E3%82%AB%E3%83%A9%E3%80%91%E5%BF%98%E3%82%8C%E3%82%89%E3%82%93%E3%81%AD%E3%81%88%E3%82%88-%E3%81%AA%E3%82%93%E3%82%82%E3%81%AD%E3%81%88-%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5%5BOnOff%20Vocal%5D%20p01%20On%20Vocal(1).mp4",
+  "style" : {
+    "alignment" : "center",
+    "fontName" : "Hiragino Sans",
+    "fontSize" : 72,
+    "fontWeight" : 700,
+    "lineGap" : 14,
+    "positionX" : 0,
+    "positionY" : 367.4,
+    "rubyFontName" : "Hiragino Sans",
+    "rubySizeFactor" : 0.4,
+    "rubyVerticalOffset" : -22,
+    "shadowBlur" : 30,
+    "shadowColor" : {
+      "a" : 1,
+      "b" : 0.22,
+      "g" : 0.07,
+      "r" : 0.1
+    },
+    "shadowOffsetX" : 0,
+    "shadowOffsetY" : 3,
+    "shadowOpacity" : 0.7,
+    "strokeColor" : {
+      "a" : 1,
+      "b" : 0.05,
+      "g" : 0.02,
+      "r" : 0.03
+    },
+    "strokeWidth" : 7,
+    "sungColor" : {
+      "a" : 1,
+      "b" : 0.91,
+      "g" : 0.482,
+      "r" : 0.545
+    },
+    "sungGradientEnabled" : true,
+    "sungGradientEndColor" : {
+      "a" : 1,
+      "b" : 0.937,
+      "g" : 0.478,
+      "r" : 0.404
+    },
+    "unsungColor" : {
+      "a" : 1,
+      "b" : 1,
+      "g" : 1,
+      "r" : 1
+    }
+  },
+  "title" : "【渲染检查占位】非对轨结果",
+  "version" : 1
+}

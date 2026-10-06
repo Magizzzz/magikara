@@ -1,0 +1,61 @@
+{
+  "audioFile" : "tts-continuous-01.wav",
+  "duration" : 11.736375,
+  "hasRepeat" : false,
+  "id" : "tts-continuous-01",
+  "kind" : "tts-baseline",
+  "lines" : [
+    {
+      "end" : 2.5926875000000003,
+      "gapBefore" : 0.1,
+      "interludeAfter" : 0,
+      "order" : 1,
+      "start" : 0.8,
+      "text" : "静かな朝に目を覚まして"
+    },
+    {
+      "end" : 4.111562500000001,
+      "gapBefore" : 0.1,
+      "interludeAfter" : 0,
+      "order" : 2,
+      "start" : 2.6926875000000003,
+      "text" : "窓の外には青い空"
+    },
+    {
+      "end" : 5.828875,
+      "gapBefore" : 0.1,
+      "interludeAfter" : 0,
+      "order" : 3,
+      "start" : 4.2115625,
+      "text" : "今日は何を話そうか"
+    },
+    {
+      "end" : 7.324999999999999,
+      "gapBefore" : 0.1,
+      "interludeAfter" : 0,
+      "order" : 4,
+      "start" : 5.928875,
+      "text" : "君に会えるそれだけで"
+    },
+    {
+      "end" : 9.015374999999999,
+      "gapBefore" : 0.1,
+      "interludeAfter" : 0,
+      "order" : 5,
+      "start" : 7.424999999999999,
+      "text" : "一日中笑っていたい"
+    },
+    {
+      "end" : 10.736374999999999,
+      "gapBefore" : 0.1,
+      "interludeAfter" : 0,
+      "order" : 6,
+      "start" : 9.115374999999998,
+      "text" : "こんな気持ちは初めてで"
+    }
+  ],
+  "note" : "由 macOS say(Kyoko) 逐句合成、裁除首尾静音后按已知间隔拼接；真值由构造确定。这是语音基线，不是歌手演唱，不能替代真实歌曲验证。",
+  "rate" : 200,
+  "sampleRate" : 16000,
+  "voice" : "Kyoko"
+}

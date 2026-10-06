@@ -1,0 +1,93 @@
+{
+  "audioFile" : "tts-fast-01.wav",
+  "duration" : 20.18225,
+  "hasRepeat" : false,
+  "id" : "tts-fast-01",
+  "kind" : "tts-baseline",
+  "lines" : [
+    {
+      "end" : 2.4676875000000003,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 0,
+      "order" : 1,
+      "start" : 1,
+      "text" : "走り出した世界の果てまで"
+    },
+    {
+      "end" : 4.195875000000001,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 0,
+      "order" : 2,
+      "start" : 2.6676875000000004,
+      "text" : "君の名前を何度も呼んだ"
+    },
+    {
+      "end" : 5.6416875000000015,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 0,
+      "order" : 3,
+      "start" : 4.395875000000001,
+      "text" : "時間が止まればいいのに"
+    },
+    {
+      "end" : 7.417937500000002,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 0,
+      "order" : 4,
+      "start" : 5.841687500000002,
+      "text" : "教科書にない答えを探す"
+    },
+    {
+      "end" : 9.047750000000002,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 2,
+      "order" : 5,
+      "start" : 7.617937500000002,
+      "text" : "Never give up そう信じて"
+    },
+    {
+      "end" : 12.570062500000002,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 0,
+      "order" : 6,
+      "start" : 11.047750000000002,
+      "text" : "小さな声でも届くように"
+    },
+    {
+      "end" : 14.216375000000001,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 0,
+      "order" : 7,
+      "start" : 12.770062500000002,
+      "text" : "運命なんて決められないよ"
+    },
+    {
+      "end" : 16.1096875,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 0,
+      "order" : 8,
+      "start" : 14.416375,
+      "text" : "東京の空はいつも広くて"
+    },
+    {
+      "end" : 17.715999999999998,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 0,
+      "order" : 9,
+      "start" : 16.3096875,
+      "text" : "失敗しても笑い飛ばして"
+    },
+    {
+      "end" : 19.182249999999996,
+      "gapBefore" : 0.2,
+      "interludeAfter" : 0,
+      "order" : 10,
+      "start" : 17.915999999999997,
+      "text" : "最後のページを開こう"
+    }
+  ],
+  "note" : "由 macOS say(Kyoko) 逐句合成、裁除首尾静音后按已知间隔拼接；真值由构造确定。这是语音基线，不是歌手演唱，不能替代真实歌曲验证。",
+  "rate" : 260,
+  "sampleRate" : 16000,
+  "voice" : "Kyoko"
+}

@@ -1,0 +1,77 @@
+{
+  "audioFile" : "tts-repeat-01.wav",
+  "duration" : 20.598625,
+  "hasRepeat" : true,
+  "id" : "tts-repeat-01",
+  "kind" : "tts-baseline",
+  "lines" : [
+    {
+      "end" : 2.7939375,
+      "gapBefore" : 0.3,
+      "interludeAfter" : 0,
+      "order" : 1,
+      "start" : 1,
+      "text" : "咲いた花のように笑って"
+    },
+    {
+      "end" : 4.81925,
+      "gapBefore" : 0.3,
+      "interludeAfter" : 0,
+      "order" : 2,
+      "start" : 3.0939375,
+      "text" : "涙は星になるから"
+    },
+    {
+      "end" : 7.062875,
+      "gapBefore" : 0.3,
+      "interludeAfter" : 0,
+      "order" : 3,
+      "start" : 5.11925,
+      "text" : "明日へ続く道を歩こう"
+    },
+    {
+      "end" : 8.7993125,
+      "gapBefore" : 0.3,
+      "interludeAfter" : 3,
+      "order" : 4,
+      "start" : 7.362875,
+      "text" : "君となら怖くない"
+    },
+    {
+      "end" : 13.59325,
+      "gapBefore" : 0.3,
+      "interludeAfter" : 0,
+      "order" : 5,
+      "start" : 11.7993125,
+      "text" : "咲いた花のように笑って"
+    },
+    {
+      "end" : 15.6185625,
+      "gapBefore" : 0.3,
+      "interludeAfter" : 0,
+      "order" : 6,
+      "start" : 13.89325,
+      "text" : "涙は星になるから"
+    },
+    {
+      "end" : 17.8621875,
+      "gapBefore" : 0.3,
+      "interludeAfter" : 0,
+      "order" : 7,
+      "start" : 15.9185625,
+      "text" : "明日へ続く道を歩こう"
+    },
+    {
+      "end" : 19.598625000000002,
+      "gapBefore" : 0.3,
+      "interludeAfter" : 0,
+      "order" : 8,
+      "start" : 18.1621875,
+      "text" : "君となら怖くない"
+    }
+  ],
+  "note" : "由 macOS say(Kyoko) 逐句合成、裁除首尾静音后按已知间隔拼接；真值由构造确定。这是语音基线，不是歌手演唱，不能替代真实歌曲验证。",
+  "rate" : 180,
+  "sampleRate" : 16000,
+  "voice" : "Kyoko"
+}

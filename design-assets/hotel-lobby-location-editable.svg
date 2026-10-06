@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160">
+  <rect x="390" y="1570" width="1550" height="318" rx="18" fill="#09121a" fill-opacity=".71"/>
+  <path d="M390 1570h12v318h-12z" fill="#cda96f"/>
+  <text x="486" y="1692" font-family="Alibaba PuHuiTi 2.0, Alibaba PuHuiTi" font-size="67" font-weight="400" fill="#dad3c7">定位：</text>
+  <path d="M717 1641h3v170h-3z" fill="#cda96f" fill-opacity=".73"/>
+  <text x="776" y="1815" font-family="Alibaba PuHuiTi 2.0, Alibaba PuHuiTi" font-size="166" font-weight="600" fill="#faf8f3">酒店大堂</text>
+</svg>

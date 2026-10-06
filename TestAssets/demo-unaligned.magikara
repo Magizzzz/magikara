@@ -1,0 +1,1524 @@
+{
+  "analysis" : {
+    "alignerName" : "LocalLyricAligner（本地能量+谱通量强制对齐）",
+    "analyzedAt" : "2026-09-21T21:15:08Z",
+    "elapsedSeconds" : 0.02026998996734619,
+    "lowConfidenceCount" : 0,
+    "mediaFingerprint" : "tts-jpop-01.wav|784806|24.52",
+    "notes" : [
+
+    ],
+    "totalLines" : 8
+  },
+  "dictionary" : {
+
+  },
+  "displayPolicy" : {
+    "adaptToGap" : true,
+    "lastHoldOut" : 1.2,
+    "leadIn" : 1.2
+  },
+  "duration" : 24.5238125,
+  "lyricLines" : [
+    {
+      "confidence" : 0.963939650838235,
+      "displayEnd" : 5.815,
+      "displayStart" : 0.44000000000000017,
+      "displayText" : "素晴らしき世界に今日も乾杯",
+      "id" : "9A91F053-0A8A-4DF4-A8A9-BFA51EF8F28C",
+      "lane" : "upper",
+      "needsReview" : false,
+      "order" : 1,
+      "reviewReasons" : [
+
+      ],
+      "singEnd" : 4.0200000000000005,
+      "singStart" : 1.6400000000000001,
+      "tokens" : [
+        {
+          "id" : "C3B53DE5-5E8C-402F-9003-C8E00B6315B7",
+          "morae" : [
+            {
+              "confidence" : 0.9459157804491348,
+              "end" : 1.77,
+              "id" : "5D4BA9B0-60CC-4082-8A2B-F0754A64D3EC",
+              "mora" : "す",
+              "start" : 1.6400000000000001
+            },
+            {
+              "confidence" : 0.9451094744755671,
+              "end" : 1.93,
+              "id" : "46C008F4-F06B-45B9-8519-982506ED472E",
+              "mora" : "ば",
+              "start" : 1.77
+            },
+            {
+              "confidence" : 0.9463771714002658,
+              "end" : 2.08,
+              "id" : "E7C16FEB-7171-487E-A47B-0440D4818AC1",
+              "mora" : "ら",
+              "start" : 1.93
+            },
+            {
+              "confidence" : 0.9369655881478236,
+              "end" : 2.24,
+              "id" : "CD6C0DF3-D640-4A25-B6E5-40D1967FA01F",
+              "mora" : "し",
+              "start" : 2.08
+            },
+            {
+              "confidence" : 0.977552204176334,
+              "end" : 2.38,
+              "id" : "EB99C6C5-01BF-4088-B469-1113E4725747",
+              "mora" : "き",
+              "start" : 2.24
+            }
+          ],
+          "reading" : "すばらしき",
+          "sourceLength" : 5,
+          "sourceStart" : 0,
+          "surface" : "素晴らしき"
+        },
+        {
+          "id" : "E8B69F9E-139C-4F5E-8B3C-4E6ED48A823C",
+          "morae" : [
+            {
+              "confidence" : 0.908015422010643,
+              "end" : 2.5100000000000002,
+              "id" : "5F5D26BA-F64C-4B61-B8AE-CA7D2897F6FC",
+              "mora" : "せ",
+              "start" : 2.38
+            },
+            {
+              "confidence" : 0.8686736796142883,
+              "end" : 2.64,
+              "id" : "4FA7C3D4-32FF-486B-9892-411066B9A495",
+              "mora" : "か",
+              "start" : 2.5100000000000002
+            },
+            {
+              "confidence" : 0.8764737105396538,
+              "end" : 2.81,
+              "id" : "6A872D08-2754-461D-AAFA-99CE1CFFAA1C",
+              "mora" : "い",
+              "start" : 2.64
+            }
+          ],
+          "reading" : "せかい",
+          "sourceLength" : 2,
+          "sourceStart" : 5,
+          "surface" : "世界"
+        },
+        {
+          "id" : "B68A8B13-6AFD-4643-BB08-5C74687E3EBB",
+          "morae" : [
+            {
+              "confidence" : 0.9097509318617135,
+              "end" : 2.98,
+              "id" : "34B13BC6-8739-4EEC-9E09-86932A030039",
+              "mora" : "に",
+              "start" : 2.81
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 7,
+          "surface" : "に"
+        },
+        {
+          "id" : "81EB13E1-F6A7-4A72-863A-D05508F3CE74",
+          "morae" : [
+            {
+              "confidence" : 0.8809482399465867,
+              "end" : 3.11,
+              "id" : "832F49AF-8441-48A0-9D4F-F2E5ED35F529",
+              "mora" : "きょ",
+              "start" : 2.98
+            },
+            {
+              "confidence" : 0.854605406049786,
+              "end" : 3.23,
+              "id" : "D732C122-E7FF-4898-8033-91B04B511475",
+              "mora" : "う",
+              "start" : 3.11
+            }
+          ],
+          "reading" : "きょう",
+          "sourceLength" : 2,
+          "sourceStart" : 8,
+          "surface" : "今日"
+        },
+        {
+          "id" : "29D22D5D-B99F-4168-8E2D-727462513F54",
+          "morae" : [
+            {
+              "confidence" : 0.8582908449024509,
+              "end" : 3.44,
+              "id" : "C4D84457-420D-43A8-A3D6-109B3DEFA345",
+              "mora" : "も",
+              "start" : 3.23
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 10,
+          "surface" : "も"
+        },
+        {
+          "id" : "6363FAFB-F367-4250-93CE-43B6EF5FD6B5",
+          "morae" : [
+            {
+              "confidence" : 0.9337876973702357,
+              "end" : 3.6,
+              "id" : "DD7672E0-95BD-4AAE-BDE3-E45C92A068CC",
+              "mora" : "か",
+              "start" : 3.44
+            },
+            {
+              "confidence" : 0.9219695405008621,
+              "end" : 3.73,
+              "id" : "03C73760-0D71-4D6D-8D88-0A91569C8430",
+              "mora" : "ん",
+              "start" : 3.6
+            },
+            {
+              "confidence" : 0.8847268886604884,
+              "end" : 3.85,
+              "id" : "D6B93E90-FDAE-46F6-AD77-B3EEFFC6BAE3",
+              "mora" : "ぱ",
+              "start" : 3.73
+            },
+            {
+              "confidence" : 0.8744126218584329,
+              "end" : 4.0200000000000005,
+              "id" : "95848E3C-1E8C-4D5B-B719-C94F0CD0EDBE",
+              "mora" : "い",
+              "start" : 3.85
+            }
+          ],
+          "reading" : "かんぱい",
+          "sourceLength" : 2,
+          "sourceStart" : 11,
+          "surface" : "乾杯"
+        }
+      ]
+    },
+    {
+      "confidence" : 0.9540183444780876,
+      "displayEnd" : 8.610000000000001,
+      "displayStart" : 3.3,
+      "displayText" : "どんな暗い夜でもきっとまた会える",
+      "id" : "9C7B1339-1D10-4C6C-B297-B8383C3D34FD",
+      "lane" : "lower",
+      "needsReview" : false,
+      "order" : 2,
+      "reviewReasons" : [
+
+      ],
+      "singEnd" : 7.0200000000000005,
+      "singStart" : 4.5,
+      "tokens" : [
+        {
+          "id" : "D7CB6F99-BA62-4472-B98B-1DB902E8E970",
+          "morae" : [
+            {
+              "confidence" : 0.8553944315545243,
+              "end" : 4.6000000000000005,
+              "id" : "C4A773AD-61D3-4199-B150-AF8A4B57B066",
+              "mora" : "ど",
+              "start" : 4.5
+            },
+            {
+              "confidence" : 0.967664841457752,
+              "end" : 4.74,
+              "id" : "1C64E8B3-AE9A-4599-890B-B8265B6B73F1",
+              "mora" : "ん",
+              "start" : 4.6000000000000005
+            },
+            {
+              "confidence" : 0.9339080885889359,
+              "end" : 4.87,
+              "id" : "33722DE4-0DFE-4EC5-A822-C5DDBFA8B633",
+              "mora" : "な",
+              "start" : 4.74
+            }
+          ],
+          "sourceLength" : 3,
+          "sourceStart" : 0,
+          "surface" : "どんな"
+        },
+        {
+          "id" : "E1F8C41C-94DD-4508-9D70-CD754B8E680D",
+          "morae" : [
+            {
+              "confidence" : 0.9395352995838201,
+              "end" : 5.01,
+              "id" : "08C8D0DA-B662-45BD-AC35-6CC4EFA5E8A8",
+              "mora" : "く",
+              "start" : 4.87
+            },
+            {
+              "confidence" : 0.8415065835551154,
+              "end" : 5.12,
+              "id" : "B6356AFB-43E4-4D01-88EB-BACBF1D1F52B",
+              "mora" : "ら",
+              "start" : 5.01
+            },
+            {
+              "confidence" : 0.967924507900623,
+              "end" : 5.26,
+              "id" : "76441104-CDFF-40F3-AC6C-2F3A36E73348",
+              "mora" : "い",
+              "start" : 5.12
+            }
+          ],
+          "reading" : "くらい",
+          "sourceLength" : 2,
+          "sourceStart" : 3,
+          "surface" : "暗い"
+        },
+        {
+          "id" : "877C2879-C38C-4D4F-BC72-D002EBB92E45",
+          "morae" : [
+            {
+              "confidence" : 0.9470127610208816,
+              "end" : 5.39,
+              "id" : "60890F21-3E14-4A7D-B71C-57290B0A35A9",
+              "mora" : "よ",
+              "start" : 5.26
+            },
+            {
+              "confidence" : 0.9736271453346288,
+              "end" : 5.53,
+              "id" : "66809F6C-528C-448B-A1D1-BB7C85652EBA",
+              "mora" : "る",
+              "start" : 5.39
+            }
+          ],
+          "reading" : "よる",
+          "sourceLength" : 1,
+          "sourceStart" : 5,
+          "surface" : "夜"
+        },
+        {
+          "id" : "43680C3D-C6FB-44E9-A45A-54B875D6AAD5",
+          "morae" : [
+            {
+              "confidence" : 0.8926966040358584,
+              "end" : 5.71,
+              "id" : "531E904E-3495-4795-B941-88068CD24806",
+              "mora" : "で",
+              "start" : 5.53
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 6,
+          "surface" : "で"
+        },
+        {
+          "id" : "8B98B215-C71D-43D7-A907-19EDF28EC5A9",
+          "morae" : [
+            {
+              "confidence" : 0.9225667465175664,
+              "end" : 5.8500000000000005,
+              "id" : "D687592D-B12B-4DE4-A444-AE924B5DA0CD",
+              "mora" : "も",
+              "start" : 5.71
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 7,
+          "surface" : "も"
+        },
+        {
+          "id" : "163820CD-F651-40D9-8509-6829EE904FAB",
+          "morae" : [
+            {
+              "confidence" : 0.9078428946091579,
+              "end" : 6.01,
+              "id" : "2315356D-4553-46EA-932A-41B4CBE87C39",
+              "mora" : "き",
+              "start" : 5.8500000000000005
+            },
+            {
+              "confidence" : 0.8917356832066158,
+              "end" : 6.13,
+              "id" : "03FB22F8-B7CF-4786-8E44-A099A21E2BEE",
+              "mora" : "っ",
+              "start" : 6.01
+            },
+            {
+              "confidence" : 0.9761636996711767,
+              "end" : 6.2700000000000005,
+              "id" : "C5A32CCF-17E9-4403-B75F-51D7102E26D7",
+              "mora" : "と",
+              "start" : 6.13
+            }
+          ],
+          "sourceLength" : 3,
+          "sourceStart" : 8,
+          "surface" : "きっと"
+        },
+        {
+          "id" : "0FD8F096-6AB5-4907-A4C8-36F2789C6C65",
+          "morae" : [
+            {
+              "confidence" : 0.9644230769230768,
+              "end" : 6.43,
+              "id" : "EC4BF87D-4C73-4869-9B8E-D02BB2A3699E",
+              "mora" : "ま",
+              "start" : 6.2700000000000005
+            },
+            {
+              "confidence" : 0.9808218420774508,
+              "end" : 6.58,
+              "id" : "55D2334E-0D7B-4218-9341-091CE3E1B318",
+              "mora" : "た",
+              "start" : 6.43
+            }
+          ],
+          "sourceLength" : 2,
+          "sourceStart" : 11,
+          "surface" : "また"
+        },
+        {
+          "id" : "0730FBEE-F00C-423F-A60F-B2702DFDC7A0",
+          "morae" : [
+            {
+              "confidence" : 0.8577522049979102,
+              "end" : 6.69,
+              "id" : "1C32588E-4335-429A-94CA-6D4D48D8B3AD",
+              "mora" : "あ",
+              "start" : 6.58
+            },
+            {
+              "confidence" : 0.8897070460543673,
+              "end" : 6.87,
+              "id" : "0B7E1FDB-E662-4E87-967B-4999298550B8",
+              "mora" : "え",
+              "start" : 6.69
+            },
+            {
+              "confidence" : 0.9511306394369174,
+              "end" : 7.0200000000000005,
+              "id" : "355FE15E-729C-4E05-BCE3-40B610B12E5C",
+              "mora" : "る",
+              "start" : 6.87
+            }
+          ],
+          "reading" : "あえる",
+          "sourceLength" : 3,
+          "sourceStart" : 13,
+          "surface" : "会える"
+        }
+      ]
+    },
+    {
+      "confidence" : 0.9223626119925333,
+      "displayEnd" : 12.89,
+      "displayStart" : 5.815,
+      "displayText" : "遠く離れていても君を想う",
+      "id" : "173E5D7A-EBD5-4C36-9F29-6AA9CB5B5D5E",
+      "lane" : "upper",
+      "needsReview" : false,
+      "order" : 3,
+      "reviewReasons" : [
+
+      ],
+      "singEnd" : 9.71,
+      "singStart" : 7.61,
+      "tokens" : [
+        {
+          "id" : "5D8493F1-1A29-4E5C-9B77-E33122867AE3",
+          "morae" : [
+            {
+              "confidence" : 0.9223909000398941,
+              "end" : 7.74,
+              "id" : "C3D17443-2B1D-44FC-ACBC-53B4B42D930A",
+              "mora" : "と",
+              "start" : 7.61
+            },
+            {
+              "confidence" : 0.9084024007359126,
+              "end" : 7.86,
+              "id" : "95AFD2BC-34C7-4D30-9287-486BDDA79C08",
+              "mora" : "お",
+              "start" : 7.74
+            },
+            {
+              "confidence" : 0.9403577319624252,
+              "end" : 7.99,
+              "id" : "64E31EFB-3CCF-48D7-8944-9B7EF698AC9D",
+              "mora" : "く",
+              "start" : 7.86
+            }
+          ],
+          "reading" : "とおく",
+          "sourceLength" : 2,
+          "sourceStart" : 0,
+          "surface" : "遠く"
+        },
+        {
+          "id" : "F2C2119B-80A6-40B5-8FD8-64ACB7AB7EAB",
+          "morae" : [
+            {
+              "confidence" : 0.9597572873188899,
+              "end" : 8.15,
+              "id" : "F5DD2DD4-4C1A-49BB-B4A3-7FE9FF525CD1",
+              "mora" : "は",
+              "start" : 7.99
+            },
+            {
+              "confidence" : 0.9069322411062546,
+              "end" : 8.28,
+              "id" : "D1C43E0B-9365-4872-88CC-935EB845ED77",
+              "mora" : "な",
+              "start" : 8.15
+            },
+            {
+              "confidence" : 0.9421374738658941,
+              "end" : 8.42,
+              "id" : "CFB18BF9-E86F-461C-95C9-EB1211D38A49",
+              "mora" : "れ",
+              "start" : 8.28
+            }
+          ],
+          "reading" : "はなれ",
+          "sourceLength" : 2,
+          "sourceStart" : 2,
+          "surface" : "離れ"
+        },
+        {
+          "id" : "39DAE270-E093-424F-8177-58C4DC8492FD",
+          "morae" : [
+            {
+              "confidence" : 0.9890857888490726,
+              "end" : 8.57,
+              "id" : "1D688517-A941-4CF6-909F-9DDF5A2458F5",
+              "mora" : "て",
+              "start" : 8.42
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 4,
+          "surface" : "て"
+        },
+        {
+          "id" : "5503C77F-737A-48D2-BED2-C90D7B550C60",
+          "morae" : [
+            {
+              "confidence" : 0.9019907157645266,
+              "end" : 8.75,
+              "id" : "F90B472D-2967-4A7D-9BE4-20DEBE580156",
+              "mora" : "い",
+              "start" : 8.57
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 5,
+          "surface" : "い"
+        },
+        {
+          "id" : "A59D7C68-5661-4A43-84BF-397042AA6F37",
+          "morae" : [
+            {
+              "confidence" : 0.8703779913225749,
+              "end" : 8.870000000000001,
+              "id" : "5424EFAE-6222-4D4A-91CC-5832272FE99F",
+              "mora" : "て",
+              "start" : 8.75
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 6,
+          "surface" : "て"
+        },
+        {
+          "id" : "EE40D5AE-E73E-4B40-BCE6-5963E2EBBEE4",
+          "morae" : [
+            {
+              "confidence" : 0.7699928712277845,
+              "end" : 8.96,
+              "id" : "614129CD-6502-491E-9632-03DD1702B5F8",
+              "mora" : "も",
+              "start" : 8.870000000000001
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 7,
+          "surface" : "も"
+        },
+        {
+          "id" : "FD69D205-9259-43CD-89E8-4D40B1884828",
+          "morae" : [
+            {
+              "confidence" : 0.7532980203061536,
+              "end" : 9.05,
+              "id" : "1A2569BE-C84F-4A41-99EB-63CC4C5C0EBA",
+              "mora" : "き",
+              "start" : 8.96
+            },
+            {
+              "confidence" : 0.8201999251679312,
+              "end" : 9.16,
+              "id" : "41B4C7A2-448F-4807-959F-8AE24220461D",
+              "mora" : "み",
+              "start" : 9.05
+            }
+          ],
+          "reading" : "きみ",
+          "sourceLength" : 1,
+          "sourceStart" : 8,
+          "surface" : "君"
+        },
+        {
+          "id" : "131FE27E-0ADC-45F4-8165-10CB8153DACE",
+          "morae" : [
+            {
+              "confidence" : 0.9211689630987473,
+              "end" : 9.290000000000001,
+              "id" : "29761440-0FBF-4F05-B42F-65A6F8C577EE",
+              "mora" : "を",
+              "start" : 9.16
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 9,
+          "surface" : "を"
+        },
+        {
+          "id" : "AA9DBB3A-C365-4523-B1DE-75D8AD49FA86",
+          "morae" : [
+            {
+              "confidence" : 0.95921529416695,
+              "end" : 9.43,
+              "id" : "8F68EC76-EA05-4F46-800B-A873BCB1795A",
+              "mora" : "お",
+              "start" : 9.290000000000001
+            },
+            {
+              "confidence" : 0.9674720729620029,
+              "end" : 9.58,
+              "id" : "629957CA-39A5-4AA4-BF53-D2FE20EA7DFB",
+              "mora" : "も",
+              "start" : 9.43
+            },
+            {
+              "confidence" : 0.9160938540937729,
+              "end" : 9.71,
+              "id" : "F206E66F-EA78-46EC-8789-AC96D56EAA02",
+              "mora" : "う",
+              "start" : 9.58
+            }
+          ],
+          "reading" : "おもう",
+          "sourceLength" : 2,
+          "sourceStart" : 10,
+          "surface" : "想う"
+        }
+      ]
+    },
+    {
+      "confidence" : 0.9249328910892896,
+      "displayEnd" : 15.09,
+      "displayStart" : 8.610000000000001,
+      "displayText" : "夢の続きを歌い続けるよ",
+      "id" : "933C0FEC-62FC-45C4-B89A-62B3BB91A7C6",
+      "lane" : "lower",
+      "needsReview" : false,
+      "order" : 4,
+      "reviewReasons" : [
+
+      ],
+      "singEnd" : 12.200000000000001,
+      "singStart" : 10.200000000000001,
+      "tokens" : [
+        {
+          "id" : "F595A6E3-5233-4F4F-AE9A-819D245CFC52",
+          "morae" : [
+            {
+              "confidence" : 0.9644230769230768,
+              "end" : 10.36,
+              "id" : "97A8A829-7D7D-4F8F-A9EA-200F71BC71A9",
+              "mora" : "ゆ",
+              "start" : 10.200000000000001
+            },
+            {
+              "confidence" : 0.9164010256555826,
+              "end" : 10.53,
+              "id" : "9C52CB05-12B1-4D46-ACFC-CDF022A2462D",
+              "mora" : "め",
+              "start" : 10.36
+            }
+          ],
+          "reading" : "ゆめ",
+          "sourceLength" : 1,
+          "sourceStart" : 0,
+          "surface" : "夢"
+        },
+        {
+          "id" : "9142C0FC-0FFD-4319-A865-C6CE6BAC443E",
+          "morae" : [
+            {
+              "confidence" : 0.8937896698740273,
+              "end" : 10.700000000000001,
+              "id" : "482FAA7F-F774-4AC3-904B-8CD898897457",
+              "mora" : "の",
+              "start" : 10.53
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 1,
+          "surface" : "の"
+        },
+        {
+          "id" : "3204B089-9C3D-4E39-8F5C-E072D076780F",
+          "morae" : [
+            {
+              "confidence" : 0.9382672248436854,
+              "end" : 10.86,
+              "id" : "E167E69D-D420-4E80-B773-D93EAA2351D3",
+              "mora" : "つ",
+              "start" : 10.700000000000001
+            },
+            {
+              "confidence" : 0.8223893784121405,
+              "end" : 10.97,
+              "id" : "B433BF36-D675-4A0E-87AA-27F9D130BFED",
+              "mora" : "づ",
+              "start" : 10.86
+            },
+            {
+              "confidence" : 0.794649829728974,
+              "end" : 11.08,
+              "id" : "FB7A2CA4-D62B-4C4B-9198-E42256E5E5D8",
+              "mora" : "き",
+              "start" : 10.97
+            }
+          ],
+          "reading" : "つづき",
+          "sourceLength" : 2,
+          "sourceStart" : 2,
+          "surface" : "続き"
+        },
+        {
+          "id" : "29D1A789-3BEC-4007-BD70-B631CA05EF19",
+          "morae" : [
+            {
+              "confidence" : 0.8850059170761684,
+              "end" : 11.200000000000001,
+              "id" : "A72642B0-255F-4391-BEB8-534F67F96CA5",
+              "mora" : "を",
+              "start" : 11.08
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 4,
+          "surface" : "を"
+        },
+        {
+          "id" : "A618C0DC-41D2-4802-A7E5-FA63CC532FA9",
+          "morae" : [
+            {
+              "confidence" : 0.9557381809200323,
+              "end" : 11.34,
+              "id" : "86464DB6-A7B0-42CF-9D25-53A089B58C0D",
+              "mora" : "う",
+              "start" : 11.200000000000001
+            },
+            {
+              "confidence" : 0.7899473597638291,
+              "end" : 11.44,
+              "id" : "1CBAA07C-C125-429E-870F-919451025BDE",
+              "mora" : "た",
+              "start" : 11.34
+            },
+            {
+              "confidence" : 0.820906959636582,
+              "end" : 11.55,
+              "id" : "454A6A2F-3248-48F2-AFD1-5ADC7948F610",
+              "mora" : "い",
+              "start" : 11.44
+            }
+          ],
+          "reading" : "うたい",
+          "sourceLength" : 2,
+          "sourceStart" : 5,
+          "surface" : "歌い"
+        },
+        {
+          "id" : "654A8B76-4487-4C7C-92B4-939E50ECCF35",
+          "morae" : [
+            {
+              "confidence" : 0.8816623528042415,
+              "end" : 11.67,
+              "id" : "2AA26575-9D31-4E85-B351-95F11228B3A1",
+              "mora" : "つ",
+              "start" : 11.55
+            },
+            {
+              "confidence" : 0.9639517498458897,
+              "end" : 11.81,
+              "id" : "6FB858AE-0ED3-4E95-B11F-E072BD4F63B5",
+              "mora" : "づ",
+              "start" : 11.67
+            },
+            {
+              "confidence" : 0.9722755885566747,
+              "end" : 11.950000000000001,
+              "id" : "E4928D1B-9A80-4B25-B0F6-A5B5C4A01D46",
+              "mora" : "け",
+              "start" : 11.81
+            },
+            {
+              "confidence" : 0.9365160409452744,
+              "end" : 12.08,
+              "id" : "B9193342-68AE-4F80-930E-C720C25B1821",
+              "mora" : "る",
+              "start" : 11.950000000000001
+            }
+          ],
+          "reading" : "つづける",
+          "sourceLength" : 3,
+          "sourceStart" : 7,
+          "surface" : "続ける"
+        },
+        {
+          "id" : "7A236876-02E8-4201-9548-638E8AEFB722",
+          "morae" : [
+            {
+              "confidence" : 0.877672866705952,
+              "end" : 12.200000000000001,
+              "id" : "94572AB1-CFCE-4102-961D-97591CA99310",
+              "mora" : "よ",
+              "start" : 12.08
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 10,
+          "surface" : "よ"
+        }
+      ]
+    },
+    {
+      "confidence" : 0.9236518292383269,
+      "displayEnd" : 18.03,
+      "displayStart" : 12.89,
+      "displayText" : "風が運ぶ季節の匂い",
+      "id" : "C0B99A87-E2A5-4B8A-A8AF-2E46102A7705",
+      "lane" : "upper",
+      "needsReview" : false,
+      "order" : 5,
+      "reviewReasons" : [
+
+      ],
+      "singEnd" : 16.6,
+      "singStart" : 14.89,
+      "tokens" : [
+        {
+          "id" : "0D9D3562-0CCB-4FED-8907-44E6D9B33CE4",
+          "morae" : [
+            {
+              "confidence" : 0.9470127610208816,
+              "end" : 15.02,
+              "id" : "F0183DB0-5CF5-4332-8283-035286719274",
+              "mora" : "か",
+              "start" : 14.89
+            },
+            {
+              "confidence" : 0.9643559930874751,
+              "end" : 15.18,
+              "id" : "6018A748-4130-4348-BB0C-93BE6570E7ED",
+              "mora" : "ぜ",
+              "start" : 15.02
+            }
+          ],
+          "reading" : "かぜ",
+          "sourceLength" : 1,
+          "sourceStart" : 0,
+          "surface" : "風"
+        },
+        {
+          "id" : "AB6934F2-558A-4EB6-8DFA-A438D91864D8",
+          "morae" : [
+            {
+              "confidence" : 0.9761457419837987,
+              "end" : 15.32,
+              "id" : "26D397C4-BE18-48F2-B8AF-7E1341ECA09E",
+              "mora" : "が",
+              "start" : 15.18
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 1,
+          "surface" : "が"
+        },
+        {
+          "id" : "065486E1-C403-433D-90FD-53B7598805AB",
+          "morae" : [
+            {
+              "confidence" : 0.9907119036943485,
+              "end" : 15.47,
+              "id" : "956F53C6-A52A-4091-AFA6-A319F533C514",
+              "mora" : "は",
+              "start" : 15.32
+            },
+            {
+              "confidence" : 0.973102936788944,
+              "end" : 15.610000000000001,
+              "id" : "A652258B-96A4-4A1D-974D-A3CACFAAF0C4",
+              "mora" : "こ",
+              "start" : 15.47
+            },
+            {
+              "confidence" : 0.9599738095356868,
+              "end" : 15.77,
+              "id" : "0F9E5818-11EE-4397-8D6F-F18DDC69C77E",
+              "mora" : "ぶ",
+              "start" : 15.610000000000001
+            }
+          ],
+          "reading" : "はこぶ",
+          "sourceLength" : 2,
+          "sourceStart" : 2,
+          "surface" : "運ぶ"
+        },
+        {
+          "id" : "862E74A1-1417-4ADE-9473-E409715556E0",
+          "morae" : [
+            {
+              "confidence" : 0.9857745553285648,
+              "end" : 15.92,
+              "id" : "7F604357-6D89-439E-AADF-7FC31AFCE61D",
+              "mora" : "き",
+              "start" : 15.77
+            },
+            {
+              "confidence" : 0.8119218093291651,
+              "end" : 16.03,
+              "id" : "7BE7033C-4B15-46F0-A4D1-50E1086FF0D9",
+              "mora" : "せ",
+              "start" : 15.92
+            },
+            {
+              "confidence" : 0.8315712645390609,
+              "end" : 16.15,
+              "id" : "FC31E403-BFD8-4E29-AD9E-AAB2B7D2D5D9",
+              "mora" : "つ",
+              "start" : 16.03
+            }
+          ],
+          "reading" : "きせつ",
+          "sourceLength" : 2,
+          "sourceStart" : 4,
+          "surface" : "季節"
+        },
+        {
+          "id" : "F5B6D52C-24DB-4228-A839-72F02145E887",
+          "morae" : [
+            {
+              "confidence" : 0.8366079048947226,
+              "end" : 16.26,
+              "id" : "DC323E5C-A35F-4EDA-8EBD-87E7067CE423",
+              "mora" : "の",
+              "start" : 16.15
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 6,
+          "surface" : "の"
+        },
+        {
+          "id" : "B7A2A741-052A-45DB-ABA5-FFA7F658572D",
+          "morae" : [
+            {
+              "confidence" : 0.8591371930876354,
+              "end" : 16.38,
+              "id" : "54756C03-B593-478D-8358-A0390A93587B",
+              "mora" : "に",
+              "start" : 16.26
+            },
+            {
+              "confidence" : 0.7852422388426943,
+              "end" : 16.48,
+              "id" : "4801EE20-6261-42B2-A49D-52802CB11CCC",
+              "mora" : "お",
+              "start" : 16.38
+            },
+            {
+              "confidence" : 0.8369516606369594,
+              "end" : 16.6,
+              "id" : "7B512621-9AA5-46C6-820B-1695C1FF0198",
+              "mora" : "い",
+              "start" : 16.48
+            }
+          ],
+          "reading" : "におい",
+          "sourceLength" : 2,
+          "sourceStart" : 7,
+          "surface" : "匂い"
+        }
+      ]
+    },
+    {
+      "confidence" : 0.9585171706211839,
+      "displayEnd" : 20.27,
+      "displayStart" : 15.09,
+      "displayText" : "僕らの声は空を越えて",
+      "id" : "11493B02-54C1-49CD-B477-8EECD69A80B4",
+      "lane" : "lower",
+      "needsReview" : false,
+      "order" : 6,
+      "reviewReasons" : [
+
+      ],
+      "singEnd" : 18.95,
+      "singStart" : 17.09,
+      "tokens" : [
+        {
+          "id" : "3AAA5469-DF33-496D-99E5-8800FE7B95B2",
+          "morae" : [
+            {
+              "confidence" : 0.9392006615640945,
+              "end" : 17.22,
+              "id" : "72E2CC1D-EE6D-4758-A5A5-E0FEA5772EEB",
+              "mora" : "ぼ",
+              "start" : 17.09
+            },
+            {
+              "confidence" : 0.9359451846124954,
+              "end" : 17.35,
+              "id" : "5E386BC3-6991-47B2-9101-BB747AF5292B",
+              "mora" : "く",
+              "start" : 17.22
+            }
+          ],
+          "reading" : "ぼく",
+          "sourceLength" : 1,
+          "sourceStart" : 0,
+          "surface" : "僕"
+        },
+        {
+          "id" : "6155A098-9976-4DB4-8912-23B2913DA7CE",
+          "morae" : [
+            {
+              "confidence" : 0.9264390689161569,
+              "end" : 17.52,
+              "id" : "39A5F602-3545-44BA-8FC4-4319CB9CD043",
+              "mora" : "ら",
+              "start" : 17.35
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 1,
+          "surface" : "ら"
+        },
+        {
+          "id" : "36E179F8-7A15-4ACC-9D8C-75431098F416",
+          "morae" : [
+            {
+              "confidence" : 0.8896839568855591,
+              "end" : 17.650000000000002,
+              "id" : "856D700F-BDD2-4F9C-9390-BF87549F89D6",
+              "mora" : "の",
+              "start" : 17.52
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 2,
+          "surface" : "の"
+        },
+        {
+          "id" : "836DF3B7-DC90-4EF4-88D3-7DB8BACA7DA2",
+          "morae" : [
+            {
+              "confidence" : 0.8588900257387737,
+              "end" : 17.77,
+              "id" : "634E2677-23D1-45F2-96E8-BA542FD132B9",
+              "mora" : "こ",
+              "start" : 17.650000000000002
+            },
+            {
+              "confidence" : 0.9068618685034067,
+              "end" : 17.94,
+              "id" : "50EF7A40-2262-447B-ACD3-839B4F43D755",
+              "mora" : "え",
+              "start" : 17.77
+            }
+          ],
+          "reading" : "こえ",
+          "sourceLength" : 1,
+          "sourceStart" : 3,
+          "surface" : "声"
+        },
+        {
+          "id" : "56EF5029-0021-441E-ACC1-5C1713753F4C",
+          "morae" : [
+            {
+              "confidence" : 0.9092986754419632,
+              "end" : 18.07,
+              "id" : "8815C09F-092D-4F67-9F23-55734661CE4D",
+              "mora" : "は",
+              "start" : 17.94
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 4,
+          "surface" : "は"
+        },
+        {
+          "id" : "1E7D5E09-409C-4C7E-90BE-609D3FE35D58",
+          "morae" : [
+            {
+              "confidence" : 0.9091495211163143,
+              "end" : 18.19,
+              "id" : "4143AC50-4ABB-4BB3-BFC9-7D5F689AF492",
+              "mora" : "そ",
+              "start" : 18.07
+            },
+            {
+              "confidence" : 0.9614919376815831,
+              "end" : 18.330000000000002,
+              "id" : "316C6499-02D4-47BB-B095-508A3E693334",
+              "mora" : "ら",
+              "start" : 18.19
+            }
+          ],
+          "reading" : "そら",
+          "sourceLength" : 1,
+          "sourceStart" : 5,
+          "surface" : "空"
+        },
+        {
+          "id" : "B55D4B52-61A5-4ECC-9850-D10C04220990",
+          "morae" : [
+            {
+              "confidence" : 0.9125910621908456,
+              "end" : 18.5,
+              "id" : "1217BC3D-D7B4-4B98-9729-3A5336A35942",
+              "mora" : "を",
+              "start" : 18.330000000000002
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 6,
+          "surface" : "を"
+        },
+        {
+          "id" : "84AD999F-D73A-4C10-97C8-E3AC3A753672",
+          "morae" : [
+            {
+              "confidence" : 0.9343736378581096,
+              "end" : 18.650000000000002,
+              "id" : "AB0FAEDB-A4AC-4D4C-9232-92E8504CDF92",
+              "mora" : "こ",
+              "start" : 18.5
+            },
+            {
+              "confidence" : 0.899567601168377,
+              "end" : 18.78,
+              "id" : "841970F1-C737-4E06-8F87-E210206F3A59",
+              "mora" : "え",
+              "start" : 18.650000000000002
+            }
+          ],
+          "reading" : "こえ",
+          "sourceLength" : 2,
+          "sourceStart" : 7,
+          "surface" : "越え"
+        },
+        {
+          "id" : "F3366D64-EB5C-4B2E-BFD6-4A7EF3391A78",
+          "morae" : [
+            {
+              "confidence" : 0.9066076070097238,
+              "end" : 18.95,
+              "id" : "5C622335-3287-4174-A161-11C6685423A3",
+              "mora" : "て",
+              "start" : 18.78
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 9,
+          "surface" : "て"
+        }
+      ]
+    },
+    {
+      "confidence" : 0.9215670376735299,
+      "displayEnd" : 22.34,
+      "displayStart" : 18.03,
+      "displayText" : "何度でも立ち上がれるから",
+      "id" : "BEF20522-85B2-4AE5-A2DC-FC8DDC3F1708",
+      "lane" : "upper",
+      "needsReview" : false,
+      "order" : 7,
+      "reviewReasons" : [
+
+      ],
+      "singEnd" : 21.14,
+      "singStart" : 19.46,
+      "tokens" : [
+        {
+          "id" : "D1B2D742-C3B3-4844-94B5-7E58F54B3DD6",
+          "morae" : [
+            {
+              "confidence" : 0.8777639471129309,
+              "end" : 19.57,
+              "id" : "9DCAE3F2-0825-4BCE-B4AD-F82241262D7A",
+              "mora" : "な",
+              "start" : 19.46
+            },
+            {
+              "confidence" : 0.9754677558387792,
+              "end" : 19.71,
+              "id" : "BC9EBA28-734B-4A78-A21A-AA1051BC46AC",
+              "mora" : "ん",
+              "start" : 19.57
+            }
+          ],
+          "reading" : "なん",
+          "sourceLength" : 1,
+          "sourceStart" : 0,
+          "surface" : "何"
+        },
+        {
+          "id" : "ED7CAA36-308C-4531-B802-222E556F6179",
+          "morae" : [
+            {
+              "confidence" : 0.9470127610208816,
+              "end" : 19.84,
+              "id" : "FA4CD815-841C-49CB-812F-D750408E6C8D",
+              "mora" : "ど",
+              "start" : 19.71
+            }
+          ],
+          "reading" : "ど",
+          "sourceLength" : 1,
+          "sourceStart" : 1,
+          "surface" : "度"
+        },
+        {
+          "id" : "78BDCE21-FA39-4B46-8048-F1DDCC59CB72",
+          "morae" : [
+            {
+              "confidence" : 0.8708692253866771,
+              "end" : 19.96,
+              "id" : "C59E4C0A-316E-462E-B6D7-7E3BEF884E2C",
+              "mora" : "で",
+              "start" : 19.84
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 2,
+          "surface" : "で"
+        },
+        {
+          "id" : "FF8ABE79-C651-4B51-AF01-C23B3E8D18A0",
+          "morae" : [
+            {
+              "confidence" : 0.7688884496121838,
+              "end" : 20.05,
+              "id" : "E5AB0AA0-365D-489A-94F4-3B0DC2611C4A",
+              "mora" : "も",
+              "start" : 19.96
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 3,
+          "surface" : "も"
+        },
+        {
+          "id" : "9C4AB2F6-2D41-41DC-B955-719E44034C31",
+          "morae" : [
+            {
+              "confidence" : 0.8996339161434749,
+              "end" : 20.17,
+              "id" : "C0F09E1A-1556-4F6C-B566-66528A9F47FA",
+              "mora" : "た",
+              "start" : 20.05
+            },
+            {
+              "confidence" : 0.8564051235952952,
+              "end" : 20.29,
+              "id" : "6153604A-0F17-4463-B2F2-E660AA2A090D",
+              "mora" : "ち",
+              "start" : 20.17
+            },
+            {
+              "confidence" : 0.9108318380667613,
+              "end" : 20.45,
+              "id" : "AF0F7E83-7ED8-4C4D-A6D7-84B8213C3951",
+              "mora" : "あ",
+              "start" : 20.29
+            },
+            {
+              "confidence" : 0.977552204176334,
+              "end" : 20.59,
+              "id" : "1F474C5E-E425-421F-A997-9D2F973F26F1",
+              "mora" : "が",
+              "start" : 20.45
+            },
+            {
+              "confidence" : 0.8859338747099768,
+              "end" : 20.7,
+              "id" : "D888B15C-5E44-49CA-8CB2-A52D1A382DED",
+              "mora" : "れ",
+              "start" : 20.59
+            },
+            {
+              "confidence" : 0.9839357281953861,
+              "end" : 20.85,
+              "id" : "DC73FE65-510A-4C67-80A3-2A4404CE6477",
+              "mora" : "る",
+              "start" : 20.7
+            }
+          ],
+          "reading" : "たちあがれる",
+          "sourceLength" : 6,
+          "sourceStart" : 4,
+          "surface" : "立ち上がれる"
+        },
+        {
+          "id" : "FA0B5D7C-E632-4A40-8D28-075A9E89BA5E",
+          "morae" : [
+            {
+              "confidence" : 0.9694366503204381,
+              "end" : 20.990000000000002,
+              "id" : "1627A968-D955-444C-9548-74977C9BBF97",
+              "mora" : "か",
+              "start" : 20.85
+            },
+            {
+              "confidence" : 0.9900246549875309,
+              "end" : 21.14,
+              "id" : "E67485C6-ADE6-4414-BEA7-EC455B2EA4B2",
+              "mora" : "ら",
+              "start" : 20.990000000000002
+            }
+          ],
+          "sourceLength" : 2,
+          "sourceStart" : 10,
+          "surface" : "から"
+        }
+      ]
+    },
+    {
+      "confidence" : 0.9691646788284932,
+      "displayEnd" : 24.69,
+      "displayStart" : 20.27,
+      "displayText" : "光の中で君に会える",
+      "id" : "6D50E0D2-9E15-414D-8CF8-AEEAE185418D",
+      "lane" : "lower",
+      "needsReview" : false,
+      "order" : 8,
+      "reviewReasons" : [
+
+      ],
+      "singEnd" : 23.490000000000002,
+      "singStart" : 21.59,
+      "tokens" : [
+        {
+          "id" : "D2568B1D-F282-4774-B697-983C7E7D17BB",
+          "morae" : [
+            {
+              "confidence" : 0.9703542280639683,
+              "end" : 21.73,
+              "id" : "6688EBF3-06F4-4C0E-8FE0-E77E646E1AA8",
+              "mora" : "ひ",
+              "start" : 21.59
+            },
+            {
+              "confidence" : 0.9159681863823512,
+              "end" : 21.85,
+              "id" : "8716CB7C-F6D2-41F6-944D-5E2A8DCDB1B6",
+              "mora" : "か",
+              "start" : 21.73
+            },
+            {
+              "confidence" : 0.9916247607500125,
+              "end" : 22,
+              "id" : "B6912CAB-72F8-4D16-A93B-E4CB87C73529",
+              "mora" : "り",
+              "start" : 21.85
+            }
+          ],
+          "reading" : "ひかり",
+          "sourceLength" : 1,
+          "sourceStart" : 0,
+          "surface" : "光"
+        },
+        {
+          "id" : "919DEA20-E897-43CA-B414-033AC715AE91",
+          "morae" : [
+            {
+              "confidence" : 0.9916247607500125,
+              "end" : 22.150000000000002,
+              "id" : "22836823-427C-427A-AED3-D31F8C75EC6A",
+              "mora" : "の",
+              "start" : 22
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 1,
+          "surface" : "の"
+        },
+        {
+          "id" : "597BF2FE-34D7-4049-8767-7C53B442209C",
+          "morae" : [
+            {
+              "confidence" : 0.9920512820512821,
+              "end" : 22.3,
+              "id" : "CB85CC20-F9C4-425E-A467-B67B3619A987",
+              "mora" : "な",
+              "start" : 22.150000000000002
+            },
+            {
+              "confidence" : 0.8957538132891696,
+              "end" : 22.48,
+              "id" : "0CABE893-7789-4DAA-A760-693D8603944E",
+              "mora" : "か",
+              "start" : 22.3
+            }
+          ],
+          "reading" : "なか",
+          "sourceLength" : 1,
+          "sourceStart" : 2,
+          "surface" : "中"
+        },
+        {
+          "id" : "967A227D-392D-4ACA-9A25-676632734082",
+          "morae" : [
+            {
+              "confidence" : 0.8901460044608157,
+              "end" : 22.66,
+              "id" : "E94B7A1F-732D-4FD4-8DF4-FC4561940381",
+              "mora" : "で",
+              "start" : 22.48
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 3,
+          "surface" : "で"
+        },
+        {
+          "id" : "EB5CE935-132D-447B-BF8A-23A52B591039",
+          "morae" : [
+            {
+              "confidence" : 0.8481864127964328,
+              "end" : 22.87,
+              "id" : "2C133B3D-3F0B-4C15-9FD5-C9B3B253954E",
+              "mora" : "き",
+              "start" : 22.66
+            },
+            {
+              "confidence" : 0.9800945879251529,
+              "end" : 23.02,
+              "id" : "1808ADA9-3313-4448-AD2E-4F377945733C",
+              "mora" : "み",
+              "start" : 22.87
+            }
+          ],
+          "reading" : "きみ",
+          "sourceLength" : 1,
+          "sourceStart" : 4,
+          "surface" : "君"
+        },
+        {
+          "id" : "9535D7AB-0360-4BC7-9DC9-3D5053059669",
+          "morae" : [
+            {
+              "confidence" : 0.8953834695854762,
+              "end" : 23.14,
+              "id" : "41A22AF9-7CC8-4F0A-BA7F-CE9301309F1F",
+              "mora" : "に",
+              "start" : 23.02
+            }
+          ],
+          "sourceLength" : 1,
+          "sourceStart" : 5,
+          "surface" : "に"
+        },
+        {
+          "id" : "8F18CE7C-5873-4C78-80A2-851071B4B4C1",
+          "morae" : [
+            {
+              "confidence" : 0.8598621625938991,
+              "end" : 23.26,
+              "id" : "1FEE01AE-6782-4A29-BD0B-B92D44F98259",
+              "mora" : "あ",
+              "start" : 23.14
+            },
+            {
+              "confidence" : 0.8149643697373552,
+              "end" : 23.36,
+              "id" : "E8489B16-84C4-4560-B1D3-A26892DAD419",
+              "mora" : "え",
+              "start" : 23.26
+            },
+            {
+              "confidence" : 0.9293236843588181,
+              "end" : 23.490000000000002,
+              "id" : "F874AD77-CCF1-4EEE-B1BC-7B4179A4D081",
+              "mora" : "る",
+              "start" : 23.36
+            }
+          ],
+          "reading" : "あえる",
+          "sourceLength" : 3,
+          "sourceStart" : 6,
+          "surface" : "会える"
+        }
+      ]
+    }
+  ],
+  "mediaURL" : "file:\/\/\/Users\/magi\/Documents\/ChatGPT\/magikara\/TestAssets\/tts-jpop-01.wav",
+  "style" : {
+    "alignment" : "center",
+    "fontName" : "Hiragino Sans",
+    "fontSize" : 72,
+    "fontWeight" : 700,
+    "lineGap" : 14,
+    "positionX" : 0,
+    "positionY" : -120,
+    "rubyFontName" : "Hiragino Sans",
+    "rubySizeFactor" : 0.4,
+    "rubyVerticalOffset" : -22,
+    "shadowBlur" : 30,
+    "shadowColor" : {
+      "a" : 1,
+      "b" : 0.3,
+      "g" : 0.1,
+      "r" : 0.15
+    },
+    "shadowOffsetX" : 0,
+    "shadowOffsetY" : 2,
+    "shadowOpacity" : 0.6,
+    "strokeColor" : {
+      "a" : 1,
+      "b" : 0.2,
+      "g" : 0.07,
+      "r" : 0.1
+    },
+    "strokeWidth" : 3,
+    "sungColor" : {
+      "a" : 1,
+      "b" : 0.91,
+      "g" : 0.482,
+      "r" : 0.545
+    },
+    "sungGradientEnabled" : true,
+    "sungGradientEndColor" : {
+      "a" : 1,
+      "b" : 0.937,
+      "g" : 0.478,
+      "r" : 0.404
+    },
+    "unsungColor" : {
+      "a" : 1,
+      "b" : 1,
+      "g" : 1,
+      "r" : 1
+    }
+  },
+  "title" : "演示 · tts-jpop-01",
+  "version" : 1
+}

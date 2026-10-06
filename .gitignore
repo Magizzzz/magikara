@@ -1,0 +1,21 @@
+# 构建产物
+.build/
+.cache/
+.modulecache/
+.swiftpm-config/
+.swiftpm-security/
+dist/
+
+# Phase 0 生成的测试素材（可由 Scripts/build.sh phase0 重新生成）
+TestAssets/*.wav
+TestAssets/.tmp/
+TestAssets/reports/
+
+# macOS
+.DS_Store
+
+# 外部实验工作区（45GB 模型/中间产物，含内嵌 git 仓库）与根目录音频
+auk-work/
+/*.wav
+.build-test/
+.publish/

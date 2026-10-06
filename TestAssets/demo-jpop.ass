@@ -1,0 +1,106 @@
+; MaGi Kara 导出
+; 扫色约定：\2c=未唱色 -> \1c=已唱色（ASS 标准 \k 行为）
+; 等待区与唱后停留区使用独立静态事件，位置与文字与扫色事件完全一致。
+; 已唱色在 ASS 中为单色，渐变已退化为起点色。
+
+[Script Info]
+ScriptType: v4.00+
+Title: MaGi Kara
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Hiragino Sans,72,&H00E87B8B,&H00FFFFFF,&H000D0508,&H4D38121A,-1,0,0,0,100,100,0,0,1,7,3,5,0,0,0,1
+Style: Ruby,Hiragino Sans,29,&H00E87B8B,&H00FFFFFF,&H000D0508,&H4D38121A,-1,0,0,0,100,100,0,0,1,4.90,0,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.44,0:00:01.64,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00FFFFFF\2c&H00FFFFFF}\alpha&H00&素晴らしき世界に今日も乾杯
+Dialogue: 0,0:00:01.64,0:00:04.02,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}素{\kf16}晴{\kf15}ら{\kf16}し{\kf14}き{\kf13}世{\kf30}界{\kf17}に{\kf13}今{\kf12}日{\kf21}も{\kf29}乾{\kf29}杯
+Dialogue: 0,0:00:04.02,0:00:05.82,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00E87B8B\2c&H00E87B8B}素晴らしき世界に今日も乾杯
+Dialogue: 1,0:00:00.44,0:00:01.64,Ruby,,0,0,0,,{\an5\pos(672,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}すばらしき
+Dialogue: 1,0:00:01.64,0:00:02.38,Ruby,,0,0,0,,{\an5\pos(672,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}す{\kf16}ば{\kf15}ら{\kf16}し{\kf14}き
+Dialogue: 1,0:00:00.44,0:00:02.38,Ruby,,0,0,0,,{\an5\pos(924,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}せかい
+Dialogue: 1,0:00:02.38,0:00:02.81,Ruby,,0,0,0,,{\an5\pos(924,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}せ{\kf13}か{\kf17}い
+Dialogue: 1,0:00:00.44,0:00:02.98,Ruby,,0,0,0,,{\an5\pos(1140,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}きょう
+Dialogue: 1,0:00:02.98,0:00:03.23,Ruby,,0,0,0,,{\an5\pos(1140,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}きょ{\kf12}う
+Dialogue: 1,0:00:00.44,0:00:03.44,Ruby,,0,0,0,,{\an5\pos(1356,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}かんぱい
+Dialogue: 1,0:00:03.44,0:00:04.02,Ruby,,0,0,0,,{\an5\pos(1356,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf16}か{\kf13}ん{\kf12}ぱ{\kf17}い
+Dialogue: 0,0:00:03.30,0:00:04.50,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00FFFFFF\2c&H00FFFFFF}\alpha&H00&どんな暗い夜でもきっとまた会える
+Dialogue: 0,0:00:04.50,0:00:07.02,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00E87B8B\2c&H00FFFFFF}{\kf10}ど{\kf14}ん{\kf13}な{\kf14}暗{\kf25}い{\kf27}夜{\kf18}で{\kf14}も{\kf16}き{\kf12}っ{\kf14}と{\kf16}ま{\kf15}た{\kf11}会{\kf18}え{\kf15}る
+Dialogue: 0,0:00:07.02,0:00:08.61,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00E87B8B\2c&H00E87B8B}どんな暗い夜でもきっとまた会える
+Dialogue: 1,0:00:03.30,0:00:04.87,Ruby,,0,0,0,,{\an5\pos(673.44,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}くらい
+Dialogue: 1,0:00:04.87,0:00:05.26,Ruby,,0,0,0,,{\an5\pos(673.44,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf14}く{\kf11}ら{\kf14}い
+Dialogue: 1,0:00:03.30,0:00:05.26,Ruby,,0,0,0,,{\an5\pos(781.44,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}よる
+Dialogue: 1,0:00:05.26,0:00:05.53,Ruby,,0,0,0,,{\an5\pos(781.44,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}よ{\kf14}る
+Dialogue: 1,0:00:03.30,0:00:06.58,Ruby,,0,0,0,,{\an5\pos(1428,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}あえる
+Dialogue: 1,0:00:06.58,0:00:07.02,Ruby,,0,0,0,,{\an5\pos(1428,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf11}あ{\kf18}え{\kf15}る
+Dialogue: 0,0:00:05.82,0:00:07.61,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00FFFFFF\2c&H00FFFFFF}\alpha&H00&遠く離れていても君を想う
+Dialogue: 0,0:00:07.61,0:00:09.71,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}遠{\kf25}く{\kf16}離{\kf27}れ{\kf15}て{\kf18}い{\kf12}て{\kf9}も{\kf20}君{\kf13}を{\kf14}想{\kf28}う
+Dialogue: 0,0:00:09.71,0:00:12.89,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00E87B8B\2c&H00E87B8B}遠く離れていても君を想う
+Dialogue: 1,0:00:05.82,0:00:07.61,Ruby,,0,0,0,,{\an5\pos(602.52,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}とおく
+Dialogue: 1,0:00:07.61,0:00:07.99,Ruby,,0,0,0,,{\an5\pos(602.52,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}と{\kf12}お{\kf13}く
+Dialogue: 1,0:00:05.82,0:00:07.99,Ruby,,0,0,0,,{\an5\pos(746.52,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}はなれ
+Dialogue: 1,0:00:07.99,0:00:08.42,Ruby,,0,0,0,,{\an5\pos(746.52,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf16}は{\kf13}な{\kf14}れ
+Dialogue: 1,0:00:05.82,0:00:08.96,Ruby,,0,0,0,,{\an5\pos(1137.48,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}きみ
+Dialogue: 1,0:00:08.96,0:00:09.16,Ruby,,0,0,0,,{\an5\pos(1137.48,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf9}き{\kf11}み
+Dialogue: 1,0:00:05.82,0:00:09.29,Ruby,,0,0,0,,{\an5\pos(1317.48,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}おもう
+Dialogue: 1,0:00:09.29,0:00:09.71,Ruby,,0,0,0,,{\an5\pos(1317.48,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf14}お{\kf15}も{\kf13}う
+Dialogue: 0,0:00:08.61,0:00:10.20,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00FFFFFF\2c&H00FFFFFF}\alpha&H00&夢の続きを歌い続けるよ
+Dialogue: 0,0:00:10.20,0:00:12.20,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00E87B8B\2c&H00FFFFFF}{\kf33}夢{\kf17}の{\kf16}続{\kf22}き{\kf12}を{\kf14}歌{\kf21}い{\kf12}続{\kf14}け{\kf27}る{\kf12}よ
+Dialogue: 0,0:00:12.20,0:00:15.09,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00E87B8B\2c&H00E87B8B}夢の続きを歌い続けるよ
+Dialogue: 1,0:00:08.61,0:00:10.20,Ruby,,0,0,0,,{\an5\pos(601.08,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}ゆめ
+Dialogue: 1,0:00:10.20,0:00:10.53,Ruby,,0,0,0,,{\an5\pos(601.08,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf16}ゆ{\kf17}め
+Dialogue: 1,0:00:08.61,0:00:10.70,Ruby,,0,0,0,,{\an5\pos(781.08,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}つづき
+Dialogue: 1,0:00:10.70,0:00:11.08,Ruby,,0,0,0,,{\an5\pos(781.08,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf16}つ{\kf11}づ{\kf11}き
+Dialogue: 1,0:00:08.61,0:00:11.20,Ruby,,0,0,0,,{\an5\pos(997.08,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}うたい
+Dialogue: 1,0:00:11.20,0:00:11.55,Ruby,,0,0,0,,{\an5\pos(997.08,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf14}う{\kf10}た{\kf11}い
+Dialogue: 1,0:00:08.61,0:00:11.55,Ruby,,0,0,0,,{\an5\pos(1176,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}つづける
+Dialogue: 1,0:00:11.55,0:00:12.08,Ruby,,0,0,0,,{\an5\pos(1176,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf12}つ{\kf14}づ{\kf14}け{\kf13}る
+Dialogue: 0,0:00:12.89,0:00:14.89,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00FFFFFF\2c&H00FFFFFF}\alpha&H00&風が運ぶ季節の匂い
+Dialogue: 0,0:00:14.89,0:00:16.60,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00E87B8B\2c&H00FFFFFF}{\kf29}風{\kf14}が{\kf15}運{\kf30}ぶ{\kf15}季{\kf23}節{\kf11}の{\kf12}匂{\kf22}い
+Dialogue: 0,0:00:16.60,0:00:18.03,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00E87B8B\2c&H00E87B8B}風が運ぶ季節の匂い
+Dialogue: 1,0:00:12.89,0:00:14.89,Ruby,,0,0,0,,{\an5\pos(672,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}かぜ
+Dialogue: 1,0:00:14.89,0:00:15.18,Ruby,,0,0,0,,{\an5\pos(672,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}か{\kf16}ぜ
+Dialogue: 1,0:00:12.89,0:00:15.32,Ruby,,0,0,0,,{\an5\pos(852,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}はこぶ
+Dialogue: 1,0:00:15.32,0:00:15.77,Ruby,,0,0,0,,{\an5\pos(852,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf15}は{\kf14}こ{\kf16}ぶ
+Dialogue: 1,0:00:12.89,0:00:15.77,Ruby,,0,0,0,,{\an5\pos(996,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}きせつ
+Dialogue: 1,0:00:15.77,0:00:16.15,Ruby,,0,0,0,,{\an5\pos(996,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf15}き{\kf11}せ{\kf12}つ
+Dialogue: 1,0:00:12.89,0:00:16.26,Ruby,,0,0,0,,{\an5\pos(1212,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}におい
+Dialogue: 1,0:00:16.26,0:00:16.60,Ruby,,0,0,0,,{\an5\pos(1212,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf12}に{\kf10}お{\kf12}い
+Dialogue: 0,0:00:15.09,0:00:17.09,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00FFFFFF\2c&H00FFFFFF}\alpha&H00&僕らの声は空を越えて
+Dialogue: 0,0:00:17.09,0:00:18.95,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00E87B8B\2c&H00FFFFFF}{\kf26}僕{\kf17}ら{\kf13}の{\kf29}声{\kf13}は{\kf26}空{\kf17}を{\kf15}越{\kf13}え{\kf17}て
+Dialogue: 0,0:00:18.95,0:00:20.27,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00E87B8B\2c&H00E87B8B}僕らの声は空を越えて
+Dialogue: 1,0:00:15.09,0:00:17.09,Ruby,,0,0,0,,{\an5\pos(638.88,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}ぼく
+Dialogue: 1,0:00:17.09,0:00:17.35,Ruby,,0,0,0,,{\an5\pos(638.88,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}ぼ{\kf13}く
+Dialogue: 1,0:00:15.09,0:00:17.65,Ruby,,0,0,0,,{\an5\pos(854.88,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}こえ
+Dialogue: 1,0:00:17.65,0:00:17.94,Ruby,,0,0,0,,{\an5\pos(854.88,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf12}こ{\kf17}え
+Dialogue: 1,0:00:15.09,0:00:18.07,Ruby,,0,0,0,,{\an5\pos(998.88,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}そら
+Dialogue: 1,0:00:18.07,0:00:18.33,Ruby,,0,0,0,,{\an5\pos(998.88,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf12}そ{\kf14}ら
+Dialogue: 1,0:00:15.09,0:00:18.50,Ruby,,0,0,0,,{\an5\pos(1178.88,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}こえ
+Dialogue: 1,0:00:18.50,0:00:18.78,Ruby,,0,0,0,,{\an5\pos(1178.88,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf15}こ{\kf13}え
+Dialogue: 0,0:00:18.03,0:00:19.46,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00FFFFFF\2c&H00FFFFFF}\alpha&H00&何度でも立ち上がれるから
+Dialogue: 0,0:00:19.46,0:00:21.14,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00E87B8B\2c&H00FFFFFF}{\kf25}何{\kf13}度{\kf12}で{\kf9}も{\kf12}立{\kf12}ち{\kf16}上{\kf14}が{\kf11}れ{\kf15}る{\kf14}か{\kf15}ら
+Dialogue: 0,0:00:21.14,0:00:22.34,Main,,0,0,0,,{\an5\pos(960,864.40)\1c&H00E87B8B\2c&H00E87B8B}何度でも立ち上がれるから
+Dialogue: 1,0:00:18.03,0:00:19.46,Ruby,,0,0,0,,{\an5\pos(564,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}なん
+Dialogue: 1,0:00:19.46,0:00:19.71,Ruby,,0,0,0,,{\an5\pos(564,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf11}な{\kf14}ん
+Dialogue: 1,0:00:18.03,0:00:19.71,Ruby,,0,0,0,,{\an5\pos(636,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}ど
+Dialogue: 1,0:00:19.71,0:00:19.84,Ruby,,0,0,0,,{\an5\pos(636,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf13}ど
+Dialogue: 1,0:00:18.03,0:00:20.05,Ruby,,0,0,0,,{\an5\pos(1032,790.56)\1c&H00FFFFFF\2c&H00FFFFFF}たちあがれる
+Dialogue: 1,0:00:20.05,0:00:20.85,Ruby,,0,0,0,,{\an5\pos(1032,790.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf12}た{\kf12}ち{\kf16}あ{\kf14}が{\kf11}れ{\kf15}る
+Dialogue: 0,0:00:20.27,0:00:21.59,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00FFFFFF\2c&H00FFFFFF}\alpha&H00&光の中で君に会える
+Dialogue: 0,0:00:21.59,0:00:23.49,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00E87B8B\2c&H00FFFFFF}{\kf41}光{\kf15}の{\kf33}中{\kf18}で{\kf36}君{\kf12}に{\kf12}会{\kf10}え{\kf13}る
+Dialogue: 0,0:00:23.49,0:00:24.69,Main,,0,0,0,,{\an5\pos(960,950.40)\1c&H00E87B8B\2c&H00E87B8B}光の中で君に会える
+Dialogue: 1,0:00:20.27,0:00:21.59,Ruby,,0,0,0,,{\an5\pos(673.44,876.56)\fsp7.20\1c&H00FFFFFF\2c&H00FFFFFF}ひかり
+Dialogue: 1,0:00:21.59,0:00:22.00,Ruby,,0,0,0,,{\an5\pos(673.44,876.56)\fsp7.20\1c&H00E87B8B\2c&H00FFFFFF}{\kf14}ひ{\kf12}か{\kf15}り
+Dialogue: 1,0:00:20.27,0:00:22.15,Ruby,,0,0,0,,{\an5\pos(817.44,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}なか
+Dialogue: 1,0:00:22.15,0:00:22.48,Ruby,,0,0,0,,{\an5\pos(817.44,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf15}な{\kf18}か
+Dialogue: 1,0:00:20.27,0:00:22.66,Ruby,,0,0,0,,{\an5\pos(961.44,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}きみ
+Dialogue: 1,0:00:22.66,0:00:23.02,Ruby,,0,0,0,,{\an5\pos(961.44,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf21}き{\kf15}み
+Dialogue: 1,0:00:20.27,0:00:23.14,Ruby,,0,0,0,,{\an5\pos(1176,876.56)\1c&H00FFFFFF\2c&H00FFFFFF}あえる
+Dialogue: 1,0:00:23.14,0:00:23.49,Ruby,,0,0,0,,{\an5\pos(1176,876.56)\1c&H00E87B8B\2c&H00FFFFFF}{\kf12}あ{\kf10}え{\kf13}る

@@ -1,0 +1,77 @@
+{
+  "audioFile" : "tts-jpop-01.wav",
+  "duration" : 24.5238125,
+  "hasRepeat" : false,
+  "id" : "tts-jpop-01",
+  "kind" : "tts-baseline",
+  "lines" : [
+    {
+      "end" : 4.039375,
+      "gapBefore" : 0.35,
+      "interludeAfter" : 0,
+      "order" : 1,
+      "start" : 1.5,
+      "text" : "素晴らしき世界に今日も乾杯"
+    },
+    {
+      "end" : 7.0353125,
+      "gapBefore" : 0.35,
+      "interludeAfter" : 0,
+      "order" : 2,
+      "start" : 4.389374999999999,
+      "text" : "どんな暗い夜でもきっとまた会える"
+    },
+    {
+      "end" : 9.75475,
+      "gapBefore" : 0.35,
+      "interludeAfter" : 0,
+      "order" : 3,
+      "start" : 7.3853124999999995,
+      "text" : "遠く離れていても君を想う"
+    },
+    {
+      "end" : 12.2749375,
+      "gapBefore" : 0.35,
+      "interludeAfter" : 2.5,
+      "order" : 4,
+      "start" : 10.10475,
+      "text" : "夢の続きを歌い続けるよ"
+    },
+    {
+      "end" : 16.615125,
+      "gapBefore" : 0.35,
+      "interludeAfter" : 0,
+      "order" : 5,
+      "start" : 14.7749375,
+      "text" : "風が運ぶ季節の匂い"
+    },
+    {
+      "end" : 18.973,
+      "gapBefore" : 0.35,
+      "interludeAfter" : 0,
+      "order" : 6,
+      "start" : 16.965125,
+      "text" : "僕らの声は空を越えて"
+    },
+    {
+      "end" : 21.1601875,
+      "gapBefore" : 0.35,
+      "interludeAfter" : 0,
+      "order" : 7,
+      "start" : 19.323,
+      "text" : "何度でも立ち上がれるから"
+    },
+    {
+      "end" : 23.523812500000002,
+      "gapBefore" : 0.35,
+      "interludeAfter" : 0,
+      "order" : 8,
+      "start" : 21.5101875,
+      "text" : "光の中で君に会える"
+    }
+  ],
+  "note" : "由 macOS say(Kyoko) 逐句合成、裁除首尾静音后按已知间隔拼接；真值由构造确定。这是语音基线，不是歌手演唱，不能替代真实歌曲验证。",
+  "rate" : 175,
+  "sampleRate" : 16000,
+  "voice" : "Kyoko"
+}
